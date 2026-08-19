@@ -9,7 +9,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-Claro, Beatriz! 💜✨ Fiz uma versão com uma estética mais roxinha, delicada e tecnológica, usando emojis roxos e mantendo o perfil com cara de estudante de programação.
 
 # 💜 Olá! Eu sou a Beatriz
 
