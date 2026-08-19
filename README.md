@@ -10,72 +10,119 @@
 </picture>
 
 
+
 # 💜 Olá! Eu sou a Beatriz
 
-### 💜🎓 Estudante de Desenvolvimento de Sistemas | SENAI Americana
+### 🎓 Estudante de Desenvolvimento de Sistemas | SENAI Americana
 
-Olá! Meu nome é **Beatriz**, tenho 16 anos e sou estudante do curso **Técnico em Desenvolvimento de Sistemas no SENAI Americana**. 💜
+Olá! Meu nome é **Beatriz**.  
+Tenho 16 anos.  
+Sou estudante do curso **Técnico em Desenvolvimento de Sistemas no SENAI Americana**. 💻💜
 
-Atualmente estou aprendendo **programação** e descobrindo cada vez mais sobre o mundo da tecnologia. 💻💜  
-Gosto de colocar em prática o que aprendo nas aulas, criando projetos e experimentando coisas novas. ✨
+Atualmente estou aprendendo **programação**.  
+Estou descobrindo cada vez mais sobre o mundo da tecnologia. 🚀💜
+
+Gosto de colocar em prática o que aprendo nas aulas.  
+Gosto de criar projetos.  
+Gosto de experimentar coisas novas.  
+Gosto de transformar ideias em realidade. ✨
 
 ---
 
-## 💜💻 O que estou aprendendo
+## 💻💜 O que estou aprendendo
 
-Atualmente, estou desenvolvendo meus conhecimentos em:
-
-- 💜 🌐 Desenvolvimento Web
-- 💜 💡 Lógica de Programação
-- 💜 🖥️ Desenvolvimento de Sistemas
-- 💜 🗄️ Banco de Dados
-- 💜 🔧 Git e GitHub
-- 💜 👩‍💻 Programação
+🌐 Desenvolvimento Web  
+💡 Lógica de Programação  
+🖥️ Desenvolvimento de Sistemas  
+🗄️ Banco de Dados  
+🔧 Git e GitHub  
+👩‍💻 Programação  
 
 > 💜✨ Ainda estou no começo da minha jornada, mas cada projeto é uma oportunidade de aprender algo novo e evoluir.
 
 ---
 
-## 💜🎨 Sobre mim
+## 🎨💜 Sobre mim
 
-Além da programação, também gosto muito de atividades criativas:
+📚 Gosto de ler.  
+✏️ Gosto de desenhar.  
+🎨 Gosto de pintar.  
+💻 Gosto de programar.  
+✨ Gosto de aprender coisas novas.  
+🐉 **Eu amo muito o Banguela!** 💜
 
-- 💜 📚 Ler
-- 💜 ✏️ Desenhar
-- 💜 🎨 Pintar
-- 💜 💻 Programar
-- 💜 ✨ Aprender coisas novas
+### 🐉💜 Meu amor pelo Banguela
 
-Acredito que **criatividade e tecnologia** podem andar juntas. 💜  
-Gosto de descobrir novas formas de criar, aprender e transformar ideias em projetos. ✨
-
----
-
-## 💜🚀 Meus projetos
-
-Aqui no meu GitHub você pode encontrar alguns dos projetos que desenvolvo durante as aulas do curso técnico. 💻
-
-Cada projeto representa um pouco do que estou aprendendo e da minha evolução como estudante de **Desenvolvimento de Sistemas**. 💜📚
-
-### 💜📂 Projetos
-
-- 💜 💻 Projetos de programação
-- 💜 🌐 Projetos de desenvolvimento web
-- 💜 🗄️ Projetos envolvendo banco de dados
-- 💜 🧩 Atividades práticas do curso
-- 💜 🚀 Projetos pessoais e experimentos
+Eu **amo o Banguela**! 🐉💜  
+Ele é um dos meus personagens favoritos.  
+Ele não poderia faltar na minha apresentação. ✨
 
 ---
 
-## 💜📈 Minha jornada
+## 🚀💜 Meus projetos
 
-```text
-💜 🌱 Começando
-       ↓
-💜 📚 Aprendendo
-       ↓
-💜 💻 Criando projetos
-       ↓
-💜 🧩 Praticando
-       ↓
-💜 🚀 Evoluindo
+Aqui no meu GitHub você pode encontrar alguns dos projetos que desenvolvo durante as aulas. 💻
+
+Cada projeto representa um pouco do que estou aprendendo.  
+Cada projeto também representa a minha evolução como estudante. 📚💜
+
+### 📂 Projetos
+
+💻 Projetos de programação  
+🌐 Projetos de desenvolvimento Web  
+🗄️ Projetos envolvendo Banco de Dados  
+🧩 Atividades práticas do curso  
+🚀 Projetos pessoais  
+✨ Experimentos e novas ideias  
+
+---
+
+## 📈💜 Minha jornada
+
+🌱 Começando  
+
+↓  
+
+📚 Aprendendo  
+
+↓  
+
+💻 Criando projetos  
+
+↓  
+
+🧩 Praticando  
+
+↓  
+
+🚀 Evoluindo  
+
+↓  
+
+✨ Aprendendo cada vez mais!
+
+---
+
+## 💜🚀 O que vem pela frente?
+
+Estou **muito animada para aprender mais e mais**! 💜
+
+Quero aprender cada vez mais sobre **programação**. 💻
+
+Quero conhecer novas **tecnologias**. 🌐
+
+Quero criar muitos **projetos**. 🚀
+
+Quero enfrentar novos **desafios**. 🧩
+
+Quero continuar evoluindo todos os dias. ✨
+
+Ainda estou no começo da minha jornada. 🌱
+
+Mas estou muito animada para descobrir até onde ela pode me levar! 💜🚀
+
+---
+
+## 💜 Obrigada por visitar meu perfil!
+
+
